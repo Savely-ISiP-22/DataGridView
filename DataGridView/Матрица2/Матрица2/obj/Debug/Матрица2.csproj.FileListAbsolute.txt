@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица2\Матрица2\bin\Debug\Матрица2.exe.config
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица2\Матрица2\bin\Debug\Матрица2.exe
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица2\Матрица2\bin\Debug\Матрица2.pdb
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица2\Матрица2\obj\Debug\Матрица2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица2\Матрица2\obj\Debug\Матрица2.Form1.resources
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица2\Матрица2\obj\Debug\Матрица2.Properties.Resources.resources
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица2\Матрица2\obj\Debug\Матрица2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица2\Матрица2\obj\Debug\Матрица2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица2\Матрица2\obj\Debug\Матрица2.exe
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица2\Матрица2\obj\Debug\Матрица2.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица2\Матрица2\bin\Debug\Матрица2.exe.config
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица2\Матрица2\bin\Debug\Матрица2.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица2\Матрица2\bin\Debug\Матрица2.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица2\Матрица2\obj\Debug\Матрица2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица2\Матрица2\obj\Debug\Матрица2.Form1.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица2\Матрица2\obj\Debug\Матрица2.Properties.Resources.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица2\Матрица2\obj\Debug\Матрица2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица2\Матрица2\obj\Debug\Матрица2.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица2\Матрица2\obj\Debug\Матрица2.pdb

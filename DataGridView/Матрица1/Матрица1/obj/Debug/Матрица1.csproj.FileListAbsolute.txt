@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица1\Матрица1\bin\Debug\Матрица1.exe.config
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица1\Матрица1\bin\Debug\Матрица1.exe
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица1\Матрица1\bin\Debug\Матрица1.pdb
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица1\Матрица1\obj\Debug\Матрица1.Form1.resources
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица1\Матрица1\obj\Debug\Матрица1.Properties.Resources.resources
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица1\Матрица1\obj\Debug\Матрица1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица1\Матрица1\obj\Debug\Матрица1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица1\Матрица1\obj\Debug\Матрица1.exe
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Матрица1\Матрица1\obj\Debug\Матрица1.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица1\Матрица1\bin\Debug\Матрица1.exe.config
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица1\Матрица1\bin\Debug\Матрица1.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица1\Матрица1\bin\Debug\Матрица1.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица1\Матрица1\obj\Debug\Матрица1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица1\Матрица1\obj\Debug\Матрица1.Form1.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица1\Матрица1\obj\Debug\Матрица1.Properties.Resources.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица1\Матрица1\obj\Debug\Матрица1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица1\Матрица1\obj\Debug\Матрица1.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\Матрица1\Матрица1\obj\Debug\Матрица1.pdb

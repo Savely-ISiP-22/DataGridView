@@ -1,0 +1,19 @@
+C:\Users\tet3t\source\repos\DataGridView1\DataGridView1\bin\Debug\DataGridView1.exe.config
+C:\Users\tet3t\source\repos\DataGridView1\DataGridView1\bin\Debug\DataGridView1.exe
+C:\Users\tet3t\source\repos\DataGridView1\DataGridView1\bin\Debug\DataGridView1.pdb
+C:\Users\tet3t\source\repos\DataGridView1\DataGridView1\obj\Debug\DataGridView1.csprojAssemblyReference.cache
+C:\Users\tet3t\source\repos\DataGridView1\DataGridView1\obj\Debug\DataGridView1.Form1.resources
+C:\Users\tet3t\source\repos\DataGridView1\DataGridView1\obj\Debug\DataGridView1.Properties.Resources.resources
+C:\Users\tet3t\source\repos\DataGridView1\DataGridView1\obj\Debug\DataGridView1.csproj.GenerateResource.cache
+C:\Users\tet3t\source\repos\DataGridView1\DataGridView1\obj\Debug\DataGridView1.csproj.CoreCompileInputs.cache
+C:\Users\tet3t\source\repos\DataGridView1\DataGridView1\obj\Debug\DataGridView1.exe
+C:\Users\tet3t\source\repos\DataGridView1\DataGridView1\obj\Debug\DataGridView1.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\DataGridView1\DataGridView1\bin\Debug\DataGridView1.exe.config
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\DataGridView1\DataGridView1\bin\Debug\DataGridView1.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\DataGridView1\DataGridView1\bin\Debug\DataGridView1.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\DataGridView1\DataGridView1\obj\Debug\DataGridView1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\DataGridView1\DataGridView1\obj\Debug\DataGridView1.Form1.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\DataGridView1\DataGridView1\obj\Debug\DataGridView1.Properties.Resources.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\DataGridView1\DataGridView1\obj\Debug\DataGridView1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\DataGridView1\DataGridView1\obj\Debug\DataGridView1.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\DataGr\DataGridView1\DataGridView1\obj\Debug\DataGridView1.pdb
